@@ -1,7 +1,15 @@
 ### Hi there 👋
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=joeangry&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=joeangry&show_icons=true&title_color=007bff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeangry&bg_color=151515&text_color=9f9f9f&title_color=007bff)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on [athena](https://github.com/joeangry/athena)
+- 🌱 I’m currently learning Go, advanced TypeScript
+- 💬 Ask me about .NET and TypeScript
+
+
+
 <!--
 **joeangry/joeangry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
