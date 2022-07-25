@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [athena](https://github.com/joeangry/athena)
 - 🌱 I’m currently learning Go, advanced TypeScript
-- 💬 Ask me about .NET and TypeScript
+- 💬 Ask me about .NET, Go and TypeScript
 
 
 
